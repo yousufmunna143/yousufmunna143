@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousuf</h1>
 <h3 align="center">A passionate Backend and Machine Learning Developer from India</h3> <br>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2loNjcwdTU2eDJoM3RxMHNramIwbmU4dzYzMmRmMzRtemEyZ29nMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp">
+<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2loNjcwdTU2eDJoM3RxMHNramIwbmU4dzYzMmRmMzRtemEyZ29nMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousufmunna143&label=Profile%20views&color=0e75b6&style=flat" alt="yousufmunna143" /> </p>
 
 - 🌱 I’m currently learning **Django**
