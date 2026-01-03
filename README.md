@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2loNjcwdTU2eDJoM3RxMHNramIwbmU4dzYzMmRmMzRtemEyZ29nMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousufmunna143&label=Profile%20views&color=0e75b6&style=flat" alt="yousufmunna143" /> </p>
 
-- 🌱 I’m currently working on **building backend systems and APIs for SparrowDesk**  
+- 🌱 I’m currently working on **building backend systems and APIs for <a href=https://www.sparrowdesk.com/> SparrowDesk </a>**  
 - 💬 Ask me about **TypeScript, Node.js, PostgreSQL, and backend development**  
 - 📫 How to reach me: **yousufmunna143@gmail.com**  
 
