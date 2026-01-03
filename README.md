@@ -29,5 +29,3 @@
 <a href="https://www.django.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/opensearch/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="opensearch" width="40" height="40"/> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufmunna143&show_icons=true&locale=en&layout=compact" alt="yousufmunna143" /></p>
