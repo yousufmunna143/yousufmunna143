@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **building backend systems and APIs for <a href=https://www.sparrowdesk.com/> SparrowDesk </a>**  
 - 💬 Ask me about **TypeScript, Node.js, PostgreSQL, and backend development**  
-- 📫 How to reach me: **yousufmunna143@gmail.com**  
+- 📫 How to reach me: **yousufmunna143+gh@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
